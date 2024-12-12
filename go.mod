@@ -1,4 +1,4 @@
-module github.com/Timothylock/go-signin-with-apple
+module github.com/WuJieOnce/go-signin-with-apple
 
 go 1.18
 
